@@ -1,0 +1,106 @@
+id,fecha,cliente,producto,cantidad,precio_unitario,total,metodo_pago,canal_venta,entrega_domicilio,estado_pago
+1,04/04/2025,DAWN RAMIREZ,Plan contable básico,3,34.28,102.84,tdc,Página Web,Sí,
+2,2025-02-24,Marcus Barnett,Plan Contable Básico,5,270.98,1354.9,Efectivo,Página Web,Sí,Pagado
+3,2025-03-29,Tammy Lynch,Asesoría Financiera,3,218.56,655.68,Transferencia,WhatsApp,No,Pagado
+4,2025-03-11,Sarah Harris,Simulación de Inversión,1,281.1,281.1,Efectivo,WhatsApp,No,Pagado
+5,2025-04-10,Shannon Gonzalez,Asesoría Financiera,4,207.33,829.32,Efectivo,Referido,No,Pendiente
+6,2024-11-15,Jennifer Mcconnell,Informe de Riesgo,5,117.63,588.15,Tarjeta de Crédito,Instagram,No,Pagado
+7,2025-02-26,Michael Miller,Simulación de Inversión,2,99.38,198.76,EFECTIVO,WhatsApp,No,
+8,2024-11-15,Jerry Aguirre,Plan Contable Básico,4,194.61,778.44,Transferencia,Instagram,Sí,Pagado
+9,2025-02-08,Michael Ware,Gestión Presupuestaria,4,232.12,928.48,tdc,Página Web,Sí,Pagado
+10,2025-01-14,Jeffrey Parker,Simulación de Inversión,3,176.4,529.2,Efectivo,Página Web,No,Pagado
+11,21/10/2024,Annette Riley,Asesoría Financiera,5,68.37,341.85,Transf.,Instagram,Sí,Pagado
+12,2025-02-26,Morgan Johnson,Gestión Presupuestaria,3,56.83,170.49,Transferencia,Instagram,No,
+13,2025-03-17,Jeff Wilson,Informe de Riesgo,5,149.07,745.35,Tarjeta de Crédito,Referido,No,
+14,2025-02-07,Krista Howard,Simulación de Inversión,5,258.04,1290.2,Efectivo,WhatsApp,Sí,Pendiente
+15,2024-12-07,David Robinson,Simulación de Inversión,3,109.4,328.2,Efectivo,Instagram,No,Pagado
+16,15-11-2024,Robert Byrd,Asesoría Financiera,1,58.32,58.32,Tarjeta de Crédito,Página Web,No,Pagado
+17,2025-04-01,Timothy Powell,Informe de Riesgo,2,112.37,224.74,EFECTIVO,Página Web,Sí,
+18,2025-01-02,Brett Palmer,simulación de inversión,2,34.77,69.54,EFECTIVO,WhatsApp,No,
+19,2025-01-06,Donald Ramirez,Informe de Riesgo,1,216.97,216.97,Transferencia,WhatsApp,No,
+20,2024-10-21,John Wilkins,Simulación de Inversión,4,209.04,836.16,Tarjeta de Crédito,WhatsApp,Sí,
+21,02/03/2025,MARY DAVIS,Informe de Riesgo,1,206.38,206.38,Transf.,Instagram,No,Pendiente
+22,2024-12-24,Johnny Williams,Asesoría Financiera,3,96.01,288.03,Transf.,Página Web,No,
+23,2024-10-25,Derek Espinoza MD,Simulación de Inversión,4,255.13,1020.52,EFECTIVO,Instagram,Sí,Pagado
+24,2024-12-10,Michelle Lewis,Simulación de Inversión,4,77.46,309.84,Transf.,Referido,No,
+25,2024-11-26,Rachael Smith,Plan Contable Básico,1,35.71,35.71,Tarjeta de Crédito,Instagram,No,
+26,2025-04-03,Kimberly Lee,Simulación de Inversión,3,215.56,646.68,Efectivo,Instagram,Sí,
+27,2024-11-29,Daisy Garner,Simulación de Inversión,4,66.02,264.08,EFECTIVO,Página Web,No,Pendiente
+28,2025-04-14,Ryan Mcfarland,Informe de Riesgo,3,197.78,593.34,EFECTIVO,Instagram,Sí,
+29,2025-02-22,Dr. Amy Melton,Asesoría Financiera,3,298.88,896.64,Transf.,Instagram,Sí,Pendiente
+30,2024-11-06,Joseph Cook,Simulación de Inversión,4,86.53,346.12,Transferencia,Instagram,Sí,Pagado
+31,04/12/2024,Jared Smith,Gestión Presupuestaria,4,177.16,708.64,Transf.,WhatsApp,No,Pagado
+32,2025-03-03,Rodney Barber,Simulación de Inversión,5,115.7,578.5,Transferencia,Referido,No,Pendiente
+33,2025-03-06,John Perry,Plan Contable Básico,1,161.47,161.47,EFECTIVO,Página Web,Sí,
+34,2025-02-12,Julie Hull,Simulación de Inversión,4,129.5,518.0,Transf.,WhatsApp,Sí,Pendiente
+35,2024-12-25,Amanda Lopez,Plan contable básico,3,88.52,265.56,Tarjeta de Crédito,Instagram,Sí,Pendiente
+36,2024-12-03,Joshua Cervantes,Asesoría Financiera,5,204.69,1023.45,tdc,Referido,No,Pagado
+37,2024-12-24,Kimberly King,Simulación de Inversión,3,44.08,132.24,Transf.,WhatsApp,No,
+38,2024-10-25,Mary Carroll,Simulación de Inversión,1,273.52,273.52,tdc,Instagram,Sí,Pendiente
+39,2025-01-11,Miss Elizabeth Rodriguez,Simulación de Inversión,5,120.86,604.3,Transferencia,WhatsApp,Sí,Pagado
+40,2024-11-08,Edward Lee,Plan Contable Básico,4,265.59,1062.36,Transf.,Referido,Sí,Pagado
+41,01/12/2024,MELISSA NIELSEN,Asesoría Financiera,2,137.2,274.4,Transf.,Instagram,Sí,
+42,2025-03-09,Sheri Johnson,Gestión Presupuestaria,2,143.12,286.24,Transferencia,WhatsApp,Sí,Pendiente
+43,2025-02-20,Brent Gallegos,Asesoría Financiera,2,30.77,61.54,Efectivo,Instagram,Sí,Pagado
+44,2025-01-03,Steven Owen,Plan Contable Básico,4,143.67,574.68,EFECTIVO,WhatsApp,No,Pendiente
+45,2025-02-11,Karen Parsons,Asesoría Financiera,2,272.72,545.44,Transferencia,Referido,Sí,Pagado
+46,09-11-2024,Wendy Porter,Informe de Riesgo,2,148.55,297.1,tdc,Referido,Sí,
+47,2024-11-13,Mark Higgins,Plan Contable Básico,3,51.0,153.0,Transf.,Referido,No,
+48,2024-10-26,Kari Coleman,Gestión Presupuestaria,3,71.73,215.19,Transferencia,WhatsApp,No,Pagado
+49,2025-01-19,Benjamin Gregory,Gestión Presupuestaria,4,281.78,1127.12,EFECTIVO,WhatsApp,No,
+50,2025-02-12,Sandra Mcdonald,Asesoría Financiera,2,63.33,126.66,EFECTIVO,Instagram,No,Pagado
+51,28/11/2024,William Boyle,Asesoría Financiera,5,288.87,1444.35,Efectivo,Página Web,No,Pendiente
+52,2025-04-13,Brandon Neal,asesoría financiera,3,73.32,219.96,tdc,Referido,Sí,Pendiente
+53,2024-12-15,Andrea Rivera,Plan Contable Básico,3,166.25,498.75,tdc,Página Web,No,Pagado
+54,2025-02-07,Jeffery Douglas,Gestión Presupuestaria,1,129.62,129.62,Transf.,Instagram,No,
+55,2024-12-18,Nathan Long,Plan Contable Básico,3,100.14,300.42,tdc,WhatsApp,Sí,Pendiente
+56,2025-03-07,Rebecca Hernandez,Asesoría Financiera,5,52.27,261.35,Transferencia,Referido,Sí,Pendiente
+57,2024-12-06,Ashley Calhoun,Gestión Presupuestaria,4,95.23,380.92,Efectivo,Página Web,No,Pagado
+58,2024-12-07,Ann Smith,Informe de Riesgo,4,164.79,659.16,Transferencia,Página Web,No,Pagado
+59,2024-11-01,Sara Nguyen,Informe de Riesgo,2,169.09,338.18,Efectivo,WhatsApp,Sí,Pendiente
+60,2025-02-22,Benjamin Schaefer,Informe de Riesgo,5,292.87,1464.35,Transf.,Referido,No,Pagado
+61,19/01/2025,GABRIEL GREGORY,Informe de Riesgo,3,157.19,471.57,Tarjeta de Crédito,Página Web,No,
+62,2024-12-17,Amy Williams,Gestión Presupuestaria,2,122.37,244.74,tdc,Referido,Sí,Pendiente
+63,2024-11-20,Leah Bean,Asesoría Financiera,1,31.17,31.17,Efectivo,Referido,Sí,Pendiente
+64,2025-04-08,Michael Johnson,Simulación de Inversión,4,254.77,1019.08,tdc,Página Web,Sí,Pendiente
+65,2025-03-28,Bradley Brown,Gestión Presupuestaria,4,152.05,608.2,Efectivo,Página Web,Sí,Pagado
+66,2024-10-25,Jim Blevins,Simulación de Inversión,5,82.67,413.35,Transf.,Página Web,No,Pendiente
+67,2025-03-19,Mitchell Mccall,Informe de Riesgo,2,218.44,436.88,Transferencia,Página Web,Sí,
+68,2024-12-23,Jamie Cruz,Simulación de Inversión,4,160.52,642.08,EFECTIVO,Instagram,Sí,
+69,2024-11-27,Catherine Elliott,asesoría financiera,5,201.02,1005.1,Efectivo,Instagram,Sí,Pagado
+70,2025-02-26,Lori Lucero,Informe de Riesgo,1,54.09,54.09,EFECTIVO,Referido,Sí,Pagado
+71,06/04/2025,Amy Craig,Asesoría Financiera,2,255.38,510.76,Transferencia,Instagram,No,Pagado
+72,2025-01-09,Michael Lopez MD,Asesoría Financiera,4,233.12,932.48,Tarjeta de Crédito,Instagram,Sí,Pendiente
+73,2025-04-19,Jennifer Rollins,Gestión Presupuestaria,3,254.74,764.22,EFECTIVO,Página Web,No,
+74,2025-03-19,Stephanie Singleton,Informe de Riesgo,3,290.67,872.01,tdc,Referido,No,Pagado
+75,2025-04-17,Ryan Matthews,Simulación de Inversión,1,171.49,171.49,Transferencia,WhatsApp,Sí,Pagado
+76,26-02-2025,Monica Golden,Plan Contable Básico,3,289.35,868.05,EFECTIVO,Página Web,No,Pagado
+77,2024-12-30,Justin Smith,Plan Contable Básico,3,60.01,180.03,Transferencia,Página Web,No,Pagado
+78,2024-11-01,Juan Ritter,Asesoría Financiera,1,188.37,188.37,Transferencia,Instagram,Sí,Pendiente
+79,2024-12-02,Lindsey Nelson,Asesoría Financiera,3,33.82,101.46,Transferencia,Página Web,No,
+80,2024-11-19,Ashley Chaney,Plan Contable Básico,1,107.02,107.02,tdc,WhatsApp,Sí,
+81,09/04/2025,KENNETH TORRES,Plan Contable Básico,2,235.59,471.18,Efectivo,Instagram,No,Pendiente
+82,2024-11-09,Frank Green,Informe de Riesgo,1,232.78,232.78,EFECTIVO,Referido,No,Pagado
+83,2024-11-26,Karen Hernandez,Plan Contable Básico,3,152.57,457.71,Transferencia,WhatsApp,Sí,
+84,2025-01-16,Melvin Sanders,Plan Contable Básico,1,43.5,43.5,EFECTIVO,WhatsApp,Sí,Pendiente
+85,2025-03-24,Willie Moran,Informe de Riesgo,2,54.79,109.58,Tarjeta de Crédito,Instagram,No,
+86,2025-01-08,Michael Montgomery,asesoría financiera,5,64.74,323.7,Transf.,WhatsApp,No,Pagado
+87,2025-02-01,Daniel Willis,Asesoría Financiera,5,165.35,826.75,Tarjeta de Crédito,Referido,Sí,
+88,2025-02-15,Julia Taylor,Gestión Presupuestaria,5,297.44,1487.2,Tarjeta de Crédito,WhatsApp,No,Pagado
+89,2024-11-30,Brittany Zavala,Simulación de Inversión,5,271.4,1357.0,Efectivo,Página Web,Sí,Pendiente
+90,2025-01-15,Amy Wagner,Simulación de Inversión,3,89.66,268.98,EFECTIVO,Instagram,No,
+91,03/01/2025,Melvin Whitney,Plan Contable Básico,2,235.25,470.5,Tarjeta de Crédito,Referido,No,Pagado
+92,2024-12-04,Anthony Johnson,Simulación de Inversión,3,295.26,885.78,Tarjeta de Crédito,Instagram,No,Pagado
+93,2024-12-08,Michelle Ross,Gestión Presupuestaria,3,291.32,873.96,EFECTIVO,Referido,No,Pagado
+94,2024-10-28,Gail Pollard,Simulación de Inversión,5,60.77,303.85,Transferencia,Instagram,Sí,
+95,2025-03-17,Marcus Warren,Asesoría Financiera,2,255.07,510.14,tdc,Referido,No,Pendiente
+96,2024-11-27,Joshua Wagner,Simulación de Inversión,5,286.57,1432.85,Transf.,Instagram,Sí,Pendiente
+97,2024-11-19,Erika Hahn,Plan Contable Básico,3,273.15,819.45,Transferencia,WhatsApp,No,
+98,2025-04-07,Gary Ellis,Simulación de Inversión,2,244.69,489.38,Transf.,Referido,Sí,
+99,2024-12-06,Jenna Jones,Simulación de Inversión,3,58.36,175.08,Efectivo,WhatsApp,No,Pagado
+100,2024-10-22,Virginia Johnson,Plan Contable Básico,3,182.81,548.43,tdc,Referido,No,Pendiente
+84,2025-01-16,Melvin Sanders,Plan Contable Básico,1,43.5,43.5,EFECTIVO,WhatsApp,Sí,Pendiente
+54,2025-02-07,Jeffery Douglas,Gestión Presupuestaria,1,129.62,129.62,Transf.,Instagram,No,
+71,06/04/2025,Amy Craig,Asesoría Financiera,2,255.38,510.76,Transferencia,Instagram,No,Pagado
+46,09-11-2024,Wendy Porter,Informe de Riesgo,2,148.55,297.1,tdc,Referido,Sí,
+45,2025-02-11,Karen Parsons,Asesoría Financiera,2,272.72,545.44,Transferencia,Referido,Sí,Pagado
