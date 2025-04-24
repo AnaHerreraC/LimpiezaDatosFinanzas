@@ -1,10 +1,10 @@
-# Limpieza y Estandarización de Datos - Proyecto de Preprocesamiento
+# **Limpieza y Estandarización de Datos - Proyecto de Preprocesamiento**
 
 ## Descripción
 
 Este proyecto consiste en el tratamiento y limpieza de un conjunto de datos que presentaba inconsistencias en los formatos, valores duplicados y datos nulos. Se aplicaron técnicas de estandarización, corrección de formatos y análisis de valores faltantes para dejar el dataset listo para su análisis exploratorio y modelado futuro.
 
-## 🛠Librerías utilizadas
+## Librerías utilizadas
 
 - Pandas
 - Seaborn / Matplotlib (visualización de datos)
@@ -29,7 +29,7 @@ Este proyecto consiste en el tratamiento y limpieza de un conjunto de datos que 
    - Visualización con heatmap.
    - Etiquetado como `desconocido` en casos sin correlación, dado que representaban un 33% de los datos y no podían eliminarse.
 
-## ✅ Resultados
+## Resultados
 
 Se obtuvo un dataset limpio, estandarizado y coherente, listo para ser utilizado en análisis posteriores y en la toma de decisiones basada en datos confiables.
 
@@ -38,4 +38,5 @@ Se obtuvo un dataset limpio, estandarizado y coherente, listo para ser utilizado
 
 Ana Herrera Chuica  
 Estudiante de Ingeniería Industrial | Aspirante a Analista de Datos
-linkedin.com/in/anaherrerachuica
+
+www.linkedin.com/in/anaherrerachuica
